@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&family=Supermercado+One&display=swap");
+body {
+  font-family: "Supermercado One", cursive;
+  text-align: right;
+}
+.main {
+  font-family: "Source Code Pro", monospace;
+  text-align: center;
+}
+.subheading {
+}
+.one {
+  text-indent: 100px;
+}
+.two {
+  text-align: left;
+}

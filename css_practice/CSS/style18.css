@@ -1,0 +1,33 @@
+/* * { 
+  margin: 0;
+}*/
+h1 {
+  background: red;
+  padding-top: 20px;
+  margin: 30px;
+  border: 5px solid black;
+  border-radius: 20px;
+  /* border-bottom-style: dashed; */
+  /* border-bottom-width: 5px; */
+  /* border-bottom-color: green; */
+  /* border-style: solid; */
+  /* border-width: 10px; */
+  /* border-color: green; */
+  /* margin-right: 50px; */
+  /* margin-bottom: 0; */
+  /* padding-bottom: 60px; */
+  /* padding-left: 25px; */
+  /* padding-right: 50px; */
+}
+p {
+  background: lightskyblue;
+  padding: 20px;
+  /* margin: 100px 20px 20px 50px; */
+  border: 13px solid pink;
+  border-radius: 50%;
+  margin-top: -50px;
+  /* margin: 50px 20px; */
+  /* margin-top: 0; */
+  /* padding: 30px 60px; */
+  /* padding: 20px 40px 60px 10px; */
+}

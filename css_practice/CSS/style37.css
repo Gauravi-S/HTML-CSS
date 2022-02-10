@@ -1,0 +1,22 @@
+div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+.one {
+  background: red;
+  transform: scaleX(0.5);
+  /* transform: translateX(50%); */
+}
+.two {
+  background: green;
+  transform: rotate(135deg);
+  /* transform: scale(1.5,1.5); */
+  /* transform: translateY(30px); */
+
+}
+.three {
+  background: blue;
+  transform: skewX(-20deg);
+  /* transform: translate(200px, 300px); */
+}
